@@ -259,7 +259,7 @@ Based on the insights and findings, here are some recommendations for Global Sup
 - By implementing the above recommendations, Global Superstore can enhance its overall performance, strengthen customer relationships, and optimize its product and market strategies for sustainable growth. 
 - Regular reviews and adjustments based on ongoing analysis will be crucial for staying competitive in the dynamic retail landscape.
 
-## DASBOARD VIEW:
+## DASHBOARD VIEW:
 The Following shows different Dashboard Views for Global superstores
 
 ![](CASPST_1.JPG)
